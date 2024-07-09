@@ -1,5 +1,3 @@
-# PROJECT
-
 ### Getting Started
 
 To get started with this project, you'll need the following software:
