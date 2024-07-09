@@ -18,6 +18,10 @@ the docker image included in this project.
 
 ### Example
 
-To search for a product with the term 'shirt':
+Assume we want to build the project first
+
+`docker build -t shopify_graphql_api .`
+
+Then we want to search for a product with the term 'shirt':
 
 `docker run --env-file=.env shopify_graphql_api npm run start "shirt"`
